@@ -3,8 +3,19 @@
 -Create react app
 -Configured taiwand css
 -Header
+-Routing of App
 -Login form
 -Sign Up form
+-Form validation
+-useRef Hook
+-Firebase Setup
+-Deploying our app to production
+-Create a Signup user account
+-Implement SignIn User Api
+-Created Redux Store with UserSlice
+-Implemented Sign Out
+-Update Profile
+
 
 # Features
 - Login/Signup 
